@@ -1,0 +1,19 @@
+{
+  "name": "skirbbl.io",
+  "version": "1.0.0",
+  "description": "scuffed game",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markerpullus/skirbbl.io.git"
+  },
+  "author": "deez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Markerpullus/skirbbl.io/issues"
+  },
+  "homepage": "https://github.com/Markerpullus/skirbbl.io#readme"
+}
