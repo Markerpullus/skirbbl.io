@@ -1,2 +1,2 @@
 # skirbbl.io
-scuffed draw game
+sike, this actually a chat room
